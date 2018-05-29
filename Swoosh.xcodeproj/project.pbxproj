@@ -15,6 +15,7 @@
 		8304B16D20BD61DA001A9199 /* BorderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8304B16C20BD61DA001A9199 /* BorderButton.swift */; };
 		8304B17120BD96AC001A9199 /* LeagueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8304B17020BD96AC001A9199 /* LeagueViewController.swift */; };
 		8304B17320BD96BA001A9199 /* SkillViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8304B17220BD96BA001A9199 /* SkillViewController.swift */; };
+		8304B17520BDA00B001A9199 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8304B17420BDA00B001A9199 /* Player.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8304B16C20BD61DA001A9199 /* BorderButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderButton.swift; sourceTree = "<group>"; };
 		8304B17020BD96AC001A9199 /* LeagueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueViewController.swift; sourceTree = "<group>"; };
 		8304B17220BD96BA001A9199 /* SkillViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillViewController.swift; sourceTree = "<group>"; };
+		8304B17420BDA00B001A9199 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		8304B16E20BD95EA001A9199 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				8304B17420BDA00B001A9199 /* Player.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				8304B15A20BD5B86001A9199 /* AppDelegate.swift in Sources */,
 				8304B17320BD96BA001A9199 /* SkillViewController.swift in Sources */,
 				8304B16D20BD61DA001A9199 /* BorderButton.swift in Sources */,
+				8304B17520BDA00B001A9199 /* Player.swift in Sources */,
 				8304B17120BD96AC001A9199 /* LeagueViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
